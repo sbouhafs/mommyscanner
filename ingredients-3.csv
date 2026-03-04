@@ -1,0 +1,710 @@
+id,source_canonical_name,source_aliases_json,source_group_name,source_pregnancy_severity,source_breastfeeding_severity,source_rationale,source_non_overridable_boolean
+1,Retinol,"[""retinyl palmitate"", ""tretinoin"", ""adapalene"", ""retinoids"", ""retinoic acid"", ""retinaldehyde""]",Retinoids,avoid,avoid,Retinoids are known teratogens and can cause birth defects. Avoid all forms during pregnancy and breastfeeding.,True
+3,Formaldehyde,"[""formalin"", ""dmdm hydantoin"", ""quaternium-15"", ""imidazolidinyl urea"", ""diazolidinyl urea""]",Preservatives,avoid,avoid,Known carcinogen and formaldehyde-releasing preservatives should be avoided during pregnancy and nursing.,True
+4,Oxybenzone,"[""benzophenone-3"", ""bp-3""]",Chemical Sunscreens,avoid,avoid,Potential endocrine disruptor with high skin absorption. Use mineral sunscreens instead.,False
+5,Avobenzone,"[""butyl methoxydibenzoylmethane""]",Chemical Sunscreens,avoid,caution,Chemical UV filter with potential endocrine disruption. Prefer mineral sunscreens during pregnancy.,False
+7,Phthalates,"[""diethyl phthalate"", ""dep"", ""dibutyl phthalate"", ""dbp""]",Plasticizers,avoid,avoid,Endocrine disruptors linked to developmental and reproductive issues. Often hidden in 'fragrance'.,True
+8,Parabens,"[""methylparaben"", ""propylparaben"", ""butylparaben"", ""ethylparaben"", ""isobutylparaben""]",Preservatives,avoid,caution,"Weak estrogen mimics. While low concentrations may be tolerable, it is best to avoid during pregnancy.",False
+9,Minoxidil,"[""rogaine""]",Hair Growth,avoid,avoid,Category C drug. Can cause fetal harm and is excreted in breast milk.,True
+10,Isotretinoin,"[""accutane"", ""13-cis-retinoic acid""]",Retinoids,avoid,avoid,Extremely teratogenic. Absolutely contraindicated during pregnancy. Must be discontinued at least 1 month before conception.,True
+11,Toluene,"[""methylbenzene""]",Solvents,avoid,avoid,Toxic solvent commonly found in nail products. Can cause developmental damage.,True
+12,Triclosan,"[""irgasan""]",Antibacterials,avoid,avoid,Endocrine disruptor that may affect thyroid function and fetal development.,False
+13,Benzoyl Peroxide,"[""bpo"", ""benzoyl peroxide usp""]",Acne Treatments,caution,caution,Limited systemic absorption (~5%). Generally considered safe in low concentrations but use with caution. Consult your healthcare provider.,False
+14,Glycolic Acid,"[""aha"", ""alpha hydroxy acid"", ""hydroxyacetic acid""]",Exfoliants,caution,safe,Low concentrations (<10%) in topical products have minimal absorption. Higher concentrations and peels should be avoided during pregnancy.,False
+15,Lactic Acid,"[""2-hydroxypropanoic acid""]",Exfoliants,caution,safe,Generally safe in low concentrations for topical use. Avoid high-concentration peels during pregnancy.,False
+16,Witch Hazel,"[""hamamelis virginiana"", ""hamamelis water""]",Botanicals,caution,safe,Generally safe topically but some formulations contain alcohol. Use alcohol-free versions and consult provider.,False
+18,Argan Oil,"[""argania spinosa kernel oil""]",Plant Oils,caution,safe,Generally considered safe but limited pregnancy-specific studies. Use in moderation.,False
+19,Niacinamide,"[""vitamin b3"", ""nicotinamide""]",Vitamins,safe,caution,Safe during pregnancy at topical concentrations. Use with caution while breastfeeding as high doses may pass into breast milk.,False
+20,Caffeine,"[""caffeine anhydrous"", ""coffea arabica""]",Stimulants,caution,caution,Topical caffeine has minimal absorption but may accumulate with multiple products. Use in moderation.,False
+21,Camphor,"[""cinnamomum camphora""]",Botanicals,caution,caution,Can be toxic if ingested or used in large amounts. Small amounts in topical products are generally okay with caution.,False
+25,Hyaluronic Acid,"[""sodium hyaluronate"", ""ha"", ""hyaluronan""]",Humectants,safe,safe,Naturally occurring in the body. Topical application is completely safe during pregnancy and breastfeeding.,False
+26,Shea Butter,"[""butyrospermum parkii"", ""butyrospermum parkii butter""]",Emollients,safe,safe,Natural moisturizer safe for all stages. Excellent for preventing stretch marks during pregnancy.,False
+27,Coconut Oil,"[""cocos nucifera oil"", ""cocos nucifera""]",Plant Oils,safe,safe,Natural emollient safe during pregnancy and breastfeeding. Great for skin and hair care.,False
+28,Aloe Vera,"[""aloe barbadensis"", ""aloe barbadensis leaf juice"", ""aloe barbadensis leaf extract""]",Botanicals,safe,safe,Topical aloe vera is safe during pregnancy. Avoid oral consumption. Soothing for skin irritation.,False
+30,Zinc Oxide,"[""ci 77947""]",Mineral Sunscreens,safe,safe,Mineral sunscreen ingredient that sits on top of skin without absorption. Preferred sun protection during pregnancy.,False
+32,Cetyl Alcohol,"[""cetearyl alcohol"", ""1-hexadecanol""]",Fatty Alcohols,safe,safe,Fatty alcohol used as an emollient and thickener. Not a drying alcohol. Safe during pregnancy.,False
+33,Stearic Acid,"[""octadecanoic acid""]",Fatty Acids,safe,safe,Naturally occurring fatty acid used as an emulsifier. Completely safe for topical use.,False
+34,Dimethicone,"[""polydimethylsiloxane"", ""pdms""]",Silicones,safe,safe,Silicone-based polymer that forms a protective barrier. No systemic absorption. Safe during pregnancy.,False
+281,Ceresin,[],Occlusives,safe,safe,Generally considered safe in topical cosmetic use.,False
+17,Tea Tree Oil,"[""melaleuca alternifolia"", ""melaleuca oil""]",Essential Oils,safe,safe,Topical tea tree oil products may be safe during pregnancy and while breastfeeding; avoid ingestion and discontinue if irritation occurs. (Topical cosmetic use only.),False
+23,Water,"[""aqua"", ""purified water"", ""deionized water"", ""eau"", ""water / eau"", ""water/aqua/ eau""]",Base,safe,safe,Completely safe. Universal solvent used as the base in most skincare formulations.,False
+35,Squalane,"[""squalene"", ""olive-derived squalane""]",Emollients,safe,safe,Naturally found in human sebum. Excellent moisturizer that is completely safe during pregnancy.,False
+36,Jojoba Oil,"[""simmondsia chinensis seed oil"", ""jojoba seed oil""]",Plant Oils,safe,safe,Liquid wax similar to skin's natural sebum. Safe and well-tolerated during pregnancy.,False
+37,Panthenol,"[""provitamin b5"", ""d-panthenol"", ""dexpanthenol""]",Vitamins,safe,safe,Provitamin B5 that hydrates and repairs skin barrier. Safe during pregnancy and breastfeeding.,False
+38,Allantoin,"[""5-ureidohydantoin""]",Skin Protectants,safe,safe,Soothing and healing compound. Safe for use during pregnancy to help with skin irritation.,False
+39,Ceramides,"[""ceramide np"", ""ceramide ap"", ""ceramide eop"", ""phytosphingosine""]",Lipids,safe,safe,Naturally occurring lipids in skin barrier. Essential for maintaining healthy skin. Safe during pregnancy.,False
+40,Cocoa Butter,"[""theobroma cacao seed butter""]",Emollients,safe,safe,Rich natural moisturizer popular for stretch mark prevention. Safe during pregnancy.,False
+41,Petrolatum,"[""petroleum jelly"", ""white petrolatum"", ""vaseline""]",Occlusives,safe,safe,Highly refined petrolatum is safe as an occlusive moisturizer. No systemic absorption.,False
+42,Lanolin,"[""lanolin alcohol"", ""lanolin oil""]",Emollients,safe,safe,Wool-derived emollient safe during pregnancy. Often used on nipples during breastfeeding.,False
+43,Centella Asiatica,"[""cica"", ""madecassoside"", ""asiaticoside"", ""gotu kola""]",Botanicals,safe,safe,Soothing botanical extract known for skin healing and barrier repair. Safe during pregnancy.,False
+44,Azelaic Acid,"[""nonanedioic acid""]",Acne Treatments,safe,safe,Category B drug considered safe during pregnancy. Effective for acne and hyperpigmentation.,False
+56,Alpha Arbutin,"[""α-arbutin"", ""alpha-arbutin""]",Skin Lighteners,caution,safe,Brightening ingredient related to hydroquinone (much milder). Use caution in pregnancy; generally low risk topically.,False
+57,Beta Arbutin,"[""β-arbutin"", ""arbutin""]",Skin Lighteners,caution,safe,Brightening ingredient related to hydroquinone (milder). Use caution in pregnancy; generally low risk topically.,False
+58,Kojic Acid,[],Skin Lighteners,caution,safe,Skin brightener used for hyperpigmentation. Limited pregnancy data; use caution.,False
+59,Kojic Dipalmitate,"[""kojic acid dipalmitate""]",Skin Lighteners,caution,safe,Ester form of kojic acid used for brightening. Limited pregnancy data; use caution.,False
+60,Tranexamic Acid,[],Skin Lighteners,caution,safe,Used topically for melasma/PIH. Limited topical pregnancy data; use caution.,False
+61,Licorice Root Extract,"[""glycyrrhiza glabra root extract"", ""dipotassium glycyrrhizate"", ""glabridin""]",Botanicals,safe,safe,Common soothing/brightening botanical. Generally considered safe topically.,False
+79,DMDM Hydantoin,"[""dimethylol dimethyl hydantoin""]",Preservatives,avoid,avoid,Formaldehyde-releasing preservative and sensitizer; avoid during pregnancy and breastfeeding.,True
+80,Quaternium-15,"[""quaternium 15""]",Preservatives,avoid,avoid,Formaldehyde-releasing preservative and sensitizer; avoid during pregnancy and breastfeeding.,True
+81,Imidazolidinyl Urea,[],Preservatives,avoid,avoid,Formaldehyde-releasing preservative; avoid during pregnancy and breastfeeding.,True
+82,Diazolidinyl Urea,[],Preservatives,avoid,avoid,Formaldehyde-releasing preservative; avoid during pregnancy and breastfeeding.,True
+83,Sodium Hydroxymethylglycinate,"[""shmg""]",Preservatives,avoid,avoid,Formaldehyde-releasing preservative; avoid during pregnancy and breastfeeding.,True
+84,Bronopol,"[""2-bromo-2-nitropropane-1,3-diol""]",Preservatives,avoid,avoid,Formaldehyde-releasing preservative; avoid during pregnancy and breastfeeding.,True
+85,"5-Bromo-5-Nitro-1,3-Dioxane","[""bromonitrodioxane""]",Preservatives,avoid,avoid,Formaldehyde-releasing preservative; avoid during pregnancy and breastfeeding.,True
+86,Methylparaben,"[""methyl paraben""]",Preservatives,caution,caution,Paraben preservative; some prefer to limit during pregnancy due to endocrine concerns.,False
+87,Propylparaben,"[""propyl paraben""]",Preservatives,caution,caution,Paraben preservative; some prefer to limit during pregnancy due to endocrine concerns.,False
+88,Butylparaben,"[""butyl paraben""]",Preservatives,caution,caution,Paraben preservative; some prefer to limit during pregnancy due to endocrine concerns.,False
+89,Ethylparaben,"[""ethyl paraben""]",Preservatives,caution,caution,Paraben preservative; some prefer to limit during pregnancy due to endocrine concerns.,False
+90,Fragrance,"[""parfum"", ""aroma""]",Fragrance,caution,caution,Fragrance blends can include undisclosed allergens/irritants. Use caution if sensitive.,False
+91,Linalool,[],Fragrance,safe,safe,Common fragrance allergen (oxidized forms can irritate). Generally safe topically.,False
+92,Limonene,"[""d-limonene""]",Fragrance,safe,safe,Common fragrance allergen (oxidized forms can irritate). Generally safe topically.,False
+93,Citral,[],Fragrance,safe,safe,Fragrance allergen; generally safe topically but can irritate sensitive skin.,False
+94,Geraniol,[],Fragrance,safe,safe,Fragrance allergen; generally safe topically but can irritate sensitive skin.,False
+95,Eugenol,[],Fragrance,safe,safe,Fragrance allergen; generally safe topically but can irritate sensitive skin.,False
+96,Coumarin,[],Fragrance,safe,safe,Fragrance allergen; generally safe topically but can irritate sensitive skin.,False
+102,Sulfur,"[""sulphur""]",Acne Treatments,safe,safe,Topical sulfur is commonly used for acne/rosacea and is generally considered safe.,False
+103,Resorcinol,[],Acne Treatments,caution,caution,Keratolytic ingredient used in some acne/peel products; limited pregnancy data—use caution.,False
+104,Mandelic Acid,[],Exfoliants,safe,safe,AHA exfoliant; generally considered safe in pregnancy when used topically as directed.,False
+105,Malic Acid,[],Exfoliants,safe,safe,AHA found in fruits; generally safe topically in pregnancy and breastfeeding.,False
+106,Tartaric Acid,[],Exfoliants,safe,safe,AHA used for exfoliation/pH; generally safe topically.,False
+107,Gluconolactone,"[""pha""]",Exfoliants,safe,safe,PHA exfoliant with lower irritation; generally safe.,False
+108,Lactobionic Acid,[],Exfoliants,safe,safe,PHA exfoliant; generally safe topically in pregnancy and breastfeeding.,False
+109,Ascorbic Acid,"[""vitamin c"", ""l-ascorbic acid""]",Vitamins,safe,safe,Vitamin C antioxidant; generally safe topically.,False
+110,Sodium Ascorbyl Phosphate,"[""sap""]",Vitamins,safe,safe,Stable vitamin C derivative; generally safe topically.,False
+111,Magnesium Ascorbyl Phosphate,"[""map""]",Vitamins,safe,safe,Stable vitamin C derivative; generally safe topically.,False
+112,Ascorbyl Glucoside,[],Vitamins,safe,safe,Stable vitamin C derivative; generally safe topically.,False
+113,Tetrahexyldecyl Ascorbate,"[""thd ascorbate""]",Vitamins,safe,safe,Oil-soluble vitamin C derivative; generally safe topically.,False
+97,Peppermint Oil,"[""mentha piperita (peppermint) oil"", ""mentha piperita extract""]",Essential Oils,safe,caution,"Peppermint oil has no clear evidence of pregnancy harm at diluted topical cosmetic use, but data are limited and some guidance is cautious; while breastfeeding, use with caution (avoid ingestion and avoid applying near the breast) and discontinue if irritation occurs. (Topical cosmetic use only.)",False
+98,Clary Sage Oil,"[""salvia sclarea oil""]",Essential Oils,avoid,caution,Clary sage oil is often advised to be avoided in pregnancy (especially before term) due to potential effects on uterine activity/oxytocin; breastfeeding data are limited—use with caution and avoid ingestion. (Topical cosmetic use only.),False
+99,Eucalyptus Oil,"[""eucalyptus globulus leaf oil"", ""eucalyptus globulus leaf extract""]",Essential Oils,caution,caution,Eucalyptus oil can be irritating/sensitizing and has limited pregnancy/breastfeeding-specific safety data; conservative guidance recommends caution. Avoid ingestion and avoid use near infants. (Topical cosmetic use only.),False
+114,3-O-Ethyl Ascorbic Acid,"[""ethylated ascorbic acid""]",Vitamins,safe,safe,Vitamin C derivative; generally safe topically.,False
+115,Bakuchiol,"[""psoralea corylifolia extract""]",Botanicals,caution,caution,Retinol alternative botanical. Limited pregnancy data; use caution.,False
+116,Urea,"[""carbamide""]",Humectants,safe,safe,Humectant/keratolytic depending on strength. Typical cosmetic use is considered safe.,False
+117,Butylene Glycol,"[""1,3-butanediol""]",Solvents,safe,safe,Common solvent/humectant; generally safe.,False
+118,Propanediol,"[""1,3-propanediol""]",Solvents,safe,safe,Common solvent/humectant; generally safe.,False
+119,Propylene Glycol,"[""1,2-propanediol""]",Solvents,safe,safe,Common solvent/humectant; generally safe.,False
+120,Pentylene Glycol,[],Solvents,safe,safe,Humectant/solvent; generally safe.,False
+121,Caprylyl Glycol,[],Preservatives,safe,safe,Preservative booster/humectant; generally safe.,False
+122,Ethylhexylglycerin,[],Preservatives,safe,safe,Preservative booster; generally safe.,False
+123,Phenoxyethanol,[],Preservatives,caution,caution,"Common preservative; generally considered safe at cosmetic limits, but some prefer caution.",False
+124,Benzyl Alcohol,[],Preservatives,safe,safe,Preservative/solvent; generally safe but can irritate sensitive skin.,False
+126,Potassium Sorbate,[],Preservatives,safe,safe,Preservative; generally safe.,False
+127,Chlorphenesin,[],Preservatives,caution,caution,Preservative; limited pregnancy-specific data—use caution.,False
+130,Disodium EDTA,"[""edta""]",Chelators,safe,safe,Chelating agent to stabilize formulas; generally safe.,False
+131,Carbomer,[],Thickeners,safe,safe,Common gelling agent; generally safe.,False
+133,Hydroxyethylcellulose,[],Thickeners,safe,safe,Thickener; generally safe.,False
+134,Sodium Hydroxide,"[""lye""]",pH Adjusters,safe,safe,pH adjuster used at very low levels; generally safe.,False
+135,Sodium Chloride,"[""salt""]",Base,safe,safe,Viscosity modifier; generally safe.,False
+136,Cetearyl Alcohol,"[""cetostearyl alcohol""]",Fatty Alcohols,safe,safe,Fatty alcohol emollient/thickener; generally safe.,False
+137,Stearyl Alcohol,[],Fatty Alcohols,safe,safe,Fatty alcohol; generally safe.,False
+138,Caprylic/Capric Triglyceride,[],Emollients,safe,safe,Common emollient; generally safe.,False
+139,Glyceryl Stearate,[],Emulsifiers,safe,safe,Emulsifier/emollient; generally safe.,False
+140,PEG-100 Stearate,[],Emulsifiers,safe,safe,Emulsifier; generally safe.,False
+141,Polysorbate 20,[],Emulsifiers,safe,safe,Solubilizer/emulsifier; generally safe.,False
+142,Lecithin,[],Lipids,safe,safe,Skin-conditioning lipid; generally safe.,False
+143,Cholesterol,[],Lipids,safe,safe,Skin-identical lipid; generally safe.,False
+144,Sodium Hyaluronate,"[""hyaluronate""]",Humectants,safe,safe,Hyaluronic acid salt; generally safe.,False
+145,Sodium PCA,[],Humectants,safe,safe,Natural moisturizing factor component; generally safe.,False
+146,Betaine,"[""trimethylglycine""]",Humectants,safe,safe,Humectant/osmolyte; generally safe.,False
+147,Ceramide NP,"[""ceramide 3""]",Lipids,safe,safe,Skin-identical ceramide; generally safe.,False
+148,Ceramide AP,"[""ceramide 6 ii""]",Lipids,safe,safe,Skin-identical ceramide; generally safe.,False
+149,Ceramide EOP,"[""ceramide 1""]",Lipids,safe,safe,Skin-identical ceramide; generally safe.,False
+150,Green Tea Extract,"[""camellia sinensis leaf extract""]",Botanicals,safe,safe,Antioxidant botanical; generally safe.,False
+151,Oat Extract,"[""avena sativa kernel extract"", ""colloidal oatmeal""]",Botanicals,safe,safe,Barrier-supporting soothing ingredient; generally safe.,False
+152,Cyclotetrasiloxane,"[""d4""]",Silicones,caution,caution,Silicone (D4) has regulatory/environmental concerns; use caution.,False
+153,Isododecane,[],Solvents,safe,safe,Volatile solvent common in makeup; generally safe.,False
+154,Silica,[],Base,safe,safe,Absorbent/texture agent; generally safe.,False
+155,Mica,[],Makeup Pigments,safe,safe,Mineral pigment/texture; generally safe.,False
+156,Iron Oxides,"[""ci 77491"", ""ci 77492"", ""ci 77499""]",Makeup Pigments,safe,safe,Mineral colorants; generally safe.,False
+158,Sodium Laureth Sulfate,"[""sles""]",Surfactants,safe,safe,Common cleansing surfactant; generally safe but can be drying/irritating.,False
+159,Sodium Lauryl Sulfate,"[""sls""]",Surfactants,safe,safe,Cleansing surfactant; generally safe but can be irritating.,False
+160,Cocamidopropyl Betaine,"[""capb""]",Surfactants,safe,safe,Mild surfactant; generally safe (possible allergen for some).,False
+161,Decyl Glucoside,[],Surfactants,safe,safe,Mild sugar-based surfactant; generally safe.,False
+162,Coco-Glucoside,[],Surfactants,safe,safe,Mild sugar-based surfactant; generally safe.,False
+163,Lauryl Glucoside,[],Surfactants,safe,safe,Mild surfactant; generally safe.,False
+164,Alcohol Denat.,"[""denatured alcohol"", ""sd alcohol 40-b"", ""ethanol""]",Solvents,safe,safe,Volatile solvent used for texture/quick-dry; generally safe but can be drying/irritating.,False
+165,Isopropyl Alcohol,"[""propan-2-ol""]",Solvents,safe,safe,Solvent; generally safe in cosmetics but can be drying/irritating.,False
+166,C12-15 Alkyl Benzoate,[],Emollients,safe,safe,Lightweight emollient commonly used in sunscreens; generally safe.,False
+167,Isononyl Isononanoate,[],Emollients,safe,safe,Emollient/texture agent; generally safe.,False
+125,Sodium Benzoate,"[""odium benzoate""]",Preservatives,safe,safe,Preservative; generally safe.,False
+132,Xanthan Gum,"[""xantham gum""]",Thickeners,safe,safe,Polysaccharide thickener; generally safe.,False
+168,Hydrogenated Polyisobutene,[],Emollients,safe,safe,Emollient often used as mineral-oil alternative; generally safe.,False
+169,Polyisobutene,[],Emollients,safe,safe,Emollient/film former; generally safe.,False
+170,Isopropyl Palmitate,[],Emollients,safe,safe,Emollient; generally safe.,False
+171,Cetyl Palmitate,[],Emollients,safe,safe,Waxy ester/emollient; generally safe.,False
+172,Sunflower Seed Oil,"[""helianthus annuus (sunflower) seed oil""]",Plant Oils,safe,safe,Common plant oil; generally safe.,False
+173,Grapeseed Oil,"[""vitis vinifera (grape) seed oil""]",Plant Oils,safe,safe,Light plant oil; generally safe.,False
+174,Olive Oil,"[""olea europaea (olive) fruit oil""]",Plant Oils,safe,safe,Common plant oil; generally safe.,False
+175,Sweet Almond Oil,"[""prunus amygdalus dulcis oil""]",Plant Oils,safe,safe,Plant oil; generally safe (avoid if nut allergy).,False
+176,Avocado Oil,"[""persea gratissima (avocado) oil""]",Plant Oils,safe,safe,Plant oil; generally safe.,False
+177,Rosehip Seed Oil,"[""rosa canina seed oil"", ""rosa rubiginosa seed oil""]",Plant Oils,safe,safe,Plant oil rich in fatty acids; generally safe.,False
+179,Microcrystalline Wax,"[""cera microcristallina""]",Occlusives,safe,safe,Wax occlusive; generally safe.,False
+180,Paraffin,"[""paraffinum liquidum"", ""mineral oil""]",Occlusives,safe,safe,Highly refined mineral ingredients are generally safe topically.,False
+181,Ferulic Acid,[],Antioxidants,safe,safe,Antioxidant used with vitamin C/E; generally safe.,False
+182,Resveratrol,[],Antioxidants,caution,caution,Potent polyphenol; limited pregnancy topical data—use caution.,False
+183,Ubiquinone,"[""coenzyme q10"", ""coq10""]",Antioxidants,safe,safe,Antioxidant; generally safe topically.,False
+184,Glutathione,[],Antioxidants,caution,caution,Brightening antioxidant; limited topical pregnancy data—use caution.,False
+185,Phytic Acid,[],Exfoliants,safe,safe,Chelating/brightening acid; generally safe topically.,False
+186,Succinic Acid,[],Acne Treatments,safe,safe,Acid used for acne/oil control; generally safe topically.,False
+187,Palmitoyl Tripeptide-1,"[""pal-ghk""]",Peptides,safe,safe,Signal peptide used for anti-aging; generally safe.,False
+188,Palmitoyl Tetrapeptide-7,[],Peptides,safe,safe,Peptide used in anti-aging formulas; generally safe.,False
+189,Acetyl Hexapeptide-8,"[""argireline""]",Peptides,safe,safe,Peptide used for expression lines; generally safe.,False
+190,Copper Tripeptide-1,"[""ghk-cu""]",Peptides,safe,safe,Copper peptide; generally safe topically.,False
+191,Acrylates Copolymer,[],Film Formers,safe,safe,Film former/thickener; generally safe.,False
+192,VP/VA Copolymer,[],Film Formers,safe,safe,Film former used in hair/makeup; generally safe.,False
+193,PVP,"[""polyvinylpyrrolidone""]",Film Formers,safe,safe,Film former; generally safe.,False
+194,Sodium Polyacrylate,[],Thickeners,safe,safe,Thickener/gel; generally safe.,False
+195,Talc,[],Makeup Fillers,safe,safe,Mineral filler; generally safe in topical cosmetics.,False
+196,Kaolin,"[""china clay""]",Makeup Fillers,safe,safe,Clay absorbent; generally safe.,False
+197,Zinc Stearate,[],Makeup Fillers,safe,safe,Powder binder; generally safe.,False
+198,Ultramarines,"[""ci 77007""]",Makeup Pigments,safe,safe,Mineral pigment; generally safe.,False
+199,Chromium Oxide Greens,"[""ci 77288""]",Makeup Pigments,safe,safe,Mineral pigment; generally safe.,False
+200,Butylated Hydroxyanisole,"[""bha antioxidant"", ""bha""]",Antioxidants,caution,caution,Antioxidant (BHA) used in some products; some prefer caution due to toxicology concerns.,False
+201,Butylated Hydroxytoluene,"[""bht""]",Antioxidants,caution,caution,Antioxidant (BHT) used in some products; some prefer caution due to toxicology concerns.,False
+203,PTFE,"[""polytetrafluoroethylene""]",PFAS,avoid,avoid,PFAS-related polymer used for slip/wear in makeup; many prefer to avoid.,True
+204,Sodium C14-16 Olefin Sulfonate,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+205,Disodium Laureth Sulfosuccinate,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+206,Sodium Lauroyl Sarcosinate,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+207,Sodium Cocoyl Isethionate,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+208,Sodium Lauroyl Methyl Isethionate,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+209,Behentrimonium Methosulfate,"[""btms""]",Conditioning Agents,safe,safe,Generally considered safe in topical cosmetic use.,False
+210,Cetrimonium Chloride,[],Conditioning Agents,safe,safe,Generally considered safe in topical cosmetic use.,False
+211,Behentrimonium Chloride,[],Conditioning Agents,safe,safe,Generally considered safe in topical cosmetic use.,False
+212,Polyquaternium-7,[],Conditioning Agents,safe,safe,Generally considered safe in topical cosmetic use.,False
+213,Polyquaternium-10,[],Conditioning Agents,safe,safe,Generally considered safe in topical cosmetic use.,False
+214,Polyquaternium-37,[],Conditioning Agents,safe,safe,Generally considered safe in topical cosmetic use.,False
+215,Guar Hydroxypropyltrimonium Chloride,[],Conditioning Agents,safe,safe,Generally considered safe in topical cosmetic use.,False
+216,Amodimethicone,[],Silicones,safe,safe,Generally considered safe in topical cosmetic use.,False
+217,Trimethylsiloxyphenyl Dimethicone,[],Silicones,safe,safe,Generally considered safe in topical cosmetic use.,False
+218,Dimethiconol,[],Silicones,safe,safe,Generally considered safe in topical cosmetic use.,False
+219,Phenyl Trimethicone,[],Silicones,safe,safe,Generally considered safe in topical cosmetic use.,False
+178,Beeswax,"[""cera alba"", ""beeswax / cire d'abeille"", ""beeswax/cera alba/cire d'abeille"", ""beeswax/cire d'abeille/cera alba""]",Occlusives,safe,safe,Wax occlusive; generally safe.,False
+220,PEG-12 Dimethicone,[],Silicones,safe,safe,Generally considered safe in topical cosmetic use.,False
+221,PEG-10 Dimethicone,[],Silicones,safe,safe,Generally considered safe in topical cosmetic use.,False
+222,Boron Nitride,[],Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+223,Synthetic Fluorphlogopite,[],Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+224,Nylon-12,[],Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+225,PMMA,"[""polymethyl methacrylate""]",Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+226,HDI/Trimethylol Hexyllactone Crosspolymer,[],Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+227,Calcium Aluminum Borosilicate,[],Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+228,Aluminum Hydroxide,[],Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+229,Magnesium Stearate,[],Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+230,Centella Asiatica Extract,[],Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+231,Houttuynia Cordata Extract,[],Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+232,Artemisia Vulgaris Extract,"[""mugwort extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+233,Ginseng Root Extract,"[""panax ginseng root extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+234,Rice Bran Extract,"[""oryza sativa bran extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+235,Cucumber Extract,"[""cucumis sativus fruit extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+236,Papaya Fruit Extract,"[""carica papaya fruit extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+237,Pumpkin Fruit Extract,"[""cucurbita pepo fruit extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+238,Blueberry Extract,"[""vaccinium angustifolium fruit extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+239,Pomegranate Extract,"[""punica granatum extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+240,Trimethylsiloxysilicate,[],Film Formers,safe,safe,Generally considered safe in topical cosmetic use.,False
+241,Acrylates/Dimethicone Copolymer,[],Film Formers,safe,safe,Generally considered safe in topical cosmetic use.,False
+242,Polyurethane-35,[],Film Formers,safe,safe,Generally considered safe in topical cosmetic use.,False
+243,VP/Eicosene Copolymer,[],Film Formers,safe,safe,Generally considered safe in topical cosmetic use.,False
+244,AMP-Acrylates Copolymer,[],Film Formers,safe,safe,Generally considered safe in topical cosmetic use.,False
+245,Diethylhexyl Syringylidenemalonate,"[""oxynex st""]",Antioxidants,safe,safe,Generally considered safe in topical cosmetic use.,False
+246,Ethylhexyl Ferulate,[],Antioxidants,safe,safe,Generally considered safe in topical cosmetic use.,False
+247,Sodium Dehydroacetate,[],Preservatives,safe,safe,Generally considered safe in topical cosmetic use.,False
+248,Gluconic Acid,[],Preservatives,safe,safe,Generally considered safe in topical cosmetic use.,False
+249,Calcium Gluconate,[],Preservatives,safe,safe,Generally considered safe in topical cosmetic use.,False
+250,Tromethamine,"[""tris buffer"", ""tris(hydroxymethyl)aminomethane""]",pH Adjusters,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+251,Sodium Metabisulfite,[],Stabilizers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+252,Sodium Bisulfite,[],Stabilizers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+253,Ammonium Hydroxide,"[""ammonia""]",pH Adjusters,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+254,Sodium Phosphate,[],Buffers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+255,Disodium Phosphate,[],Buffers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+256,Potassium Phosphate,[],Buffers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+257,Monosodium Phosphate,[],Buffers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+258,Edetate Calcium Disodium,"[""calcium disodium edta""]",Chelators,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+259,Ammonium Glycolate,[],Exfoliants,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+260,Sodium Lactate,[],Humectants,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+261,Sodium Citrate,[],Buffers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+262,Potassium Citrate,[],Buffers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+263,Beta-Glucan,[],Skin Protectants,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+264,Hydroxypropyl Guar,[],Thickeners,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+265,Hydroxypropyl Starch Phosphate,[],Thickeners,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+266,Pullulan,[],Film Formers,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+267,Ergothioneine,[],Antioxidants,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+268,Silymarin,"[""milk thistle extract""]",Antioxidants,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+269,Piroctone Olamine,[],Scalp Actives,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+270,Zinc Gluconate,[],Scalp Actives,safe,safe,Generally considered safe in topical cosmetic or dermatologic use.,False
+2,Hydroquinone,"[""hydroquinone usp"", ""hq""]",Skin Lighteners,avoid,caution,"Skin-lightening agent with relatively higher systemic absorption compared with many topicals; avoid in pregnancy as a conservative precaution. During breastfeeding, not formally studied; some experts discourage long-term use—avoid infant contact/ingestion from treated skin.",True
+6,Salicylic Acid,"[""bha"", ""beta hydroxy acid"", ""2-hydroxybenzoic acid""]",Exfoliants,caution,safe,"Salicylate/BHA exfoliant. Professional guidance generally considers limited topical use acceptable, but use caution in pregnancy—avoid high-dose (>2%) leave-on or large-area use. Generally compatible with breastfeeding when used as directed.",False
+31,Titanium Dioxide,"[""ci 77891"", ""titanium dioxide"", ""titanium dioxide (ci 77891)"", ""CI77891"", ""Titanium Dioxide (Pigment)""]",Mineral Sunscreens,safe,safe,Mineral UV filter with no systemic absorption. Safe and recommended during pregnancy as sun protection.,False
+45,Tretinoin,"[""all-trans retinoic acid"", ""retinoic acid"", ""retin-a""]",Retinoids,avoid,caution,"Topical retinoid/Vitamin A derivative. Most experts recommend avoiding during pregnancy due to teratogenicity of systemic retinoids and precautionary guidance for topical use. For breastfeeding, topical absorption is low; avoid applying to nipple/areola and prevent infant skin contact.",True
+46,Adapalene,"[""differin""]",Retinoids,avoid,caution,"Topical retinoid/Vitamin A derivative. Most experts recommend avoiding during pregnancy due to teratogenicity of systemic retinoids and precautionary guidance for topical use. For breastfeeding, topical absorption is low; avoid applying to nipple/areola and prevent infant skin contact.",True
+47,Tazarotene,"[""tazorac""]",Retinoids,avoid,caution,"Topical retinoid with stronger pregnancy risk (systemic retinoids are teratogenic). Avoid during pregnancy. For breastfeeding, topical absorption is low but use caution; do not apply to nipple/areola and avoid infant skin contact.",True
+48,Retinal,"[""retinaldehyde""]",Retinoids,avoid,caution,Retinoid-pathway ingredient (retinaldehyde). Avoid during pregnancy as a conservative precaution. Use caution while breastfeeding; avoid nipple/areola.,False
+49,Retinyl Acetate,"[""vitamin a acetate""]",Retinoids,avoid,caution,Vitamin A derivative. Avoid during pregnancy as a conservative precaution. Use caution while breastfeeding; avoid nipple/areola.,False
+50,Retinyl Propionate,"[""vitamin a propionate""]",Retinoids,avoid,caution,Vitamin A derivative. Avoid during pregnancy as a conservative precaution. Use caution while breastfeeding; avoid nipple/areola.,False
+51,Hydroxypinacolone Retinoate,"[""hpr"", ""granactive retinoid""]",Retinoids,avoid,caution,Retinoid ester (HPR; often marketed as 'Granactive Retinoid'). Avoid during pregnancy as a conservative precaution. Use caution while breastfeeding; avoid nipple/areola.,False
+52,Betaine Salicylate,"[""betaine salicylate (bha)""]",Exfoliants,caution,safe,"Salicylate/BHA exfoliant. Professional guidance generally considers limited topical use acceptable, but use caution in pregnancy—avoid high-dose (>2%) leave-on or large-area use. Generally compatible with breastfeeding when used as directed.",False
+53,Sodium Salicylate,"[""natrium salicylate""]",Exfoliants,caution,safe,"Salicylate/BHA exfoliant. Professional guidance generally considers limited topical use acceptable, but use caution in pregnancy—avoid high-dose (>2%) leave-on or large-area use. Generally compatible with breastfeeding when used as directed.",False
+54,Capryloyl Salicylic Acid,"[""lha"", ""lipohydroxy acid""]",Exfoliants,caution,safe,"Salicylate/BHA exfoliant. Professional guidance generally considers limited topical use acceptable, but use caution in pregnancy—avoid high-dose (>2%) leave-on or large-area use. Generally compatible with breastfeeding when used as directed.",False
+55,Willow Bark Extract,"[""salix alba bark extract"", ""salix nigra bark extract""]",Botanicals,caution,safe,"Salicylate/BHA exfoliant. Professional guidance generally considers limited topical use acceptable, but use caution in pregnancy—avoid high-dose (>2%) leave-on or large-area use. Generally compatible with breastfeeding when used as directed.",False
+62,Octinoxate,"[""ethylhexyl methoxycinnamate"", ""octyl methoxycinnamate""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+63,Octocrylene,[],Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+64,Homosalate,[],Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+65,Octisalate,"[""ethylhexyl salicylate""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+66,Ensulizole,"[""phenylbenzimidazole sulfonic acid""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+67,Sulisobenzone,"[""benzophenone-4""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+282,Collagen,[],Proteins,safe,safe,Generally considered safe in topical cosmetic use.,False
+68,Dioxybenzone,"[""benzophenone-8""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+69,Meradimate,"[""menthyl anthranilate""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+70,Padimate O,"[""octyl dimethyl paba""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+71,Ecamsule,"[""mexoryl sx""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+72,Drometrizole Trisiloxane,"[""mexoryl xl""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+73,Diethylamino Hydroxybenzoyl Hexyl Benzoate,"[""uvinul a plus""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+74,Ethylhexyl Triazone,"[""uvinul t 150""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+75,Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine,"[""bemotrizinol"", ""tinosorb s""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+76,Methylene Bis-Benzotriazolyl Tetramethylbutylphenol,"[""bisoctrizole"", ""tinosorb m""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+77,Tris-Biphenyl Triazine,"[""tinosorb a2b""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+78,Polysilicone-15,"[""parsol slx""]",Chemical Sunscreens,avoid,caution,"Organic (chemical) UV filter. FDA-sponsored trials found measurable systemic absorption for several chemical sunscreen actives under maximal-use conditions; effects are uncertain. Conservative approach: avoid during pregnancy and prefer mineral filters (zinc oxide/titanium dioxide). If used while breastfeeding, use caution and avoid application to the breast area.",False
+128,Methylisothiazolinone,"[""mi""]",Preservatives,avoid,avoid,"Preservative associated with high rates of contact allergy, especially in leave-on products. Conservative approach: avoid, particularly during pregnancy/breastfeeding when skin may be more sensitive.",True
+129,Methylchloroisothiazolinone,"[""mci""]",Preservatives,avoid,avoid,"Preservative associated with high rates of contact allergy, especially in leave-on products. Conservative approach: avoid, particularly during pregnancy/breastfeeding when skin may be more sensitive.",True
+202,Lilial,"[""butylphenyl methylpropional""]",Fragrance,avoid,avoid,Fragrance ingredient (Butylphenyl Methylpropional) prohibited in EU cosmetics due to reproductive toxicity classification; conservative approach: avoid.,True
+271,Polyvinylpyrrolidone,"[""polyvinylpyrrolidone"", ""PVP""]",Film Formers,safe,safe,Film former; generally safe.,False
+272,Polytetrafluoroethylene,"[""polytetrafluoroethylene"", ""PTFE""]",PFAS,avoid,avoid,PFAS-related polymer used for slip/wear in makeup; many prefer to avoid.,True
+273,Polymethyl Methacrylate,"[""polymethyl methacrylate"", ""PMMA""]",Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+274,Algae Extract,[],Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+275,Alumina,[],Makeup Fillers,safe,safe,Generally considered safe in topical cosmetic use.,False
+276,Avena Sativa Kernel Flour,"[""oat flour""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+277,Avocado Perseose,[],Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+278,Bis-Aminopropyl Diglycol Dimaleate,"[""bond builder""]",Hair Actives,safe,safe,Generally considered safe in topical cosmetic use.,False
+279,Borago Officinalis Seed Oil,"[""borage seed oil""]",Plant Oils,safe,safe,Generally considered safe in topical cosmetic use.,False
+280,Calendula Officinalis Flower Extract,"[""calendula extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+283,Cyclomethicone,[],Silicones,safe,safe,Generally considered safe in topical cosmetic use.,False
+284,Dicaprylyl Carbonate,[],Emollients,safe,safe,Generally considered safe in topical cosmetic use.,False
+285,Elastin,[],Proteins,safe,safe,Generally considered safe in topical cosmetic use.,False
+286,Ethoxydiglycol,[],Solvents,safe,safe,Generally considered safe in topical cosmetic use.,False
+288,Glycol Distearate,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+289,Laureth-23,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+291,Linum Usitatissimum Seed Extract,"[""linseed extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+292,Lutein,[],Antioxidants,safe,safe,Generally considered safe in topical cosmetic use.,False
+293,Limnanthes Alba Seed Oil,"[""meadowfoam seed oil""]",Plant Oils,safe,safe,Generally considered safe in topical cosmetic use.,False
+294,Methylpropanediol,[],Solvents,safe,safe,Generally considered safe in topical cosmetic use.,False
+295,Palmitic Acid,[],Fatty Acids,safe,safe,Generally considered safe in topical cosmetic use.,False
+296,Polyacrylamide,[],Polymers,safe,safe,Generally considered safe in topical cosmetic use.,False
+297,Red Algae Extract,"[""rhodophyceae extract""]",Botanicals,safe,safe,Generally considered safe in topical cosmetic use.,False
+298,Simethicone,[],Silicones,safe,safe,Generally considered safe in topical cosmetic use.,False
+299,Sodium Lauroyl Isethionate,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+300,Sodium Methyl 2-Sulfolaurate,[],Surfactants,safe,safe,Generally considered safe in topical cosmetic use.,False
+301,Stearamidopropyl Dimethylamine,[],Conditioning Agents,safe,safe,Generally considered safe in topical cosmetic use.,False
+302,Triethanolamine,[],pH Adjusters,safe,safe,Generally considered safe in topical cosmetic use.,False
+303,Triisononanoin,[],Emollients,safe,safe,Generally considered safe in topical cosmetic use.,False
+304,Zinc Pyrithione,[],Scalp Actives,avoid,avoid,Anti-dandruff antimicrobial active. Limited human pregnancy/breastfeeding data; labeling generally recommends use only if benefit outweighs risk. Conservative approach: avoid.,True
+305,Peptide (Generic),"[""peptide"", ""peptides"", ""hexapeptide"", ""tripeptide"", ""tetrapeptide"", ""oligopeptide""]",Peptides,safe,safe,Generic peptide family matcher used for discovery; individual peptides evaluated separately.,False
+306,CI Colorants (Generic),"[""ci 26100"", ""ci 47000"", ""ci 77491"", ""ci 77492"", ""ci 77499"", ""ci 77007""]",Makeup Pigments,safe,safe,Generic CI colorant matcher; individual pigments assessed separately.,False
+309,Beta-Carotene,"[""beta-carotene"", ""beta- carotene""]",Vitamins,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+310,Hydrolyzed Collagen,"[""hydrolyzed collagen"", ""hydrolyzed collagen*""]",Proteins,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+311,Acmella Oleracea Extract,"[""acmella oleracea extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+312,Acrylates/c10-30 Alkyl Acrylate Crosspolymer,"[""acrylates/c10-30 alkyl acrylate crosspolymer""]",Film Formers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+313,Adenosine,"[""adenosine""]",Conditioning Agents,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+314,Alaria Esculenta Extract,"[""alaria esculenta extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+315,Albizia Julibrissin Bark Extract,"[""albizia julibrissin bark extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+316,Aloe Barbadensis Leaf Juice Powder,"[""aloe barbadensis leaf juice powder""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+317,Aminomethyl Propanol,"[""aminomethyl propanol""]",pH Adjusters,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+318,Ammonium Acryloyldimethyltaurate/vp Copolymer,"[""ammonium acryloyldimethyltaurate/vp copolymer""]",Film Formers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+319,Amyl Salicylate,"[""amyl salicylate""]",Fragrance,caution,caution,Salicylate-related fragrance ingredient; avoid heavy leave-on use during pregnancy and use with caution.,False
+320,Amylopectin,"[""amylopectin""]",Thickeners,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+321,Astragalus Membranaceus Root Extract,"[""astragalus membranaceus root extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+322,Atractylodes Macrocephala Root Extract,"[""atractylodes macrocephala root extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+323,Bambusa Vulgaris Leaf/stem Extract,"[""bambusa vulgaris leaf/stem extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+324,Benzyl Acetate,"[""benzyl acetate""]",Fragrance,caution,caution,Fragrance component; may irritate/sensitize and has limited pregnancy-specific data—use with caution.,False
+325,Benzyl Benzoate,"[""benzyl benzoate""]",Fragrance,caution,caution,Fragrance component; may irritate/sensitize and has limited pregnancy-specific data—use with caution.,False
+326,Biotin,"[""biotin""]",Vitamins,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+327,Bisabolol,"[""bisabolol""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+328,Brassica Alba Sprout Extract,"[""brassica alba sprout extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+329,Bupleurum Falcatum Root Extract,"[""bupleurum falcatum root extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+330,Calendula Officinalis Extract,"[""calendula officinalis extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+331,Caprylyl/capryl Glucoside,"[""caprylyl/capryl glucoside""]",Surfactants,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+332,Carnosine,"[""carnosine""]",Conditioning Agents,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+333,Castor Oil/ipdi Copolymer,"[""castor oil/ipdi copolymer""]",Film Formers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+334,Ceramide NG,"[""ceramide ng""]",Lipids,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+335,Ceteareth-20,"[""ceteareth-20""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+336,Cetearyl Methicone,"[""cetearyl methicone""]",Silicones,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+337,Cetyl Esters,"[""cetyl esters""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+338,Chlorella Protothecoides Oil,"[""chlorella protothecoides oil""]",Plant Oils,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+339,Chlorella Vulgaris Extract,"[""chlorella vulgaris extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+340,Chlorhexidine Digluconate,"[""chlorhexidine digluconate""]",Antibacterials,caution,caution,"Antimicrobial ingredient; generally low systemic absorption, but use with caution especially on large areas or broken skin.",False
+341,Chrysin,"[""chrysin""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+342,Citric Acid,"[""citric acid""]",pH Adjusters,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+343,Citrus Limon Fruit Extract,"[""citrus limon fruit extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+344,Coco-caprylate/caprate,"[""coco-caprylate/caprate""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+345,Coffea Arabica Seed Oil,"[""coffea arabica seed oil""]",Plant Oils,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+346,Collagen Amino Acids,"[""collagen amino acids""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+347,Copernicia Cerifera Wax/copernicia Cerifera Cera/cire De Carnauba,"[""copernicia cerifera wax/ copernicia cerifera cera/ cire de carnauba""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+348,Copper Lysinate/prolinate,"[""copper lysinate/prolinate""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+349,Corallina Officinalis Extract,"[""corallina officinalis extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+350,Cylindrotheca Fusiformis Extract,"[""cylindrotheca fusiformis extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+351,Cynara Scolymus Leaf Extract,"[""cynara scolymus leaf extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+352,Darutoside,"[""darutoside""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+353,Dextrin,"[""dextrin""]",Thickeners,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+354,Dextrin Palmitate,"[""dextrin palmitate""]",Thickeners,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+355,Dictyopteris Polypodioides Extract,"[""dictyopteris polypodioides extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+356,Diglycerin,"[""diglycerin""]",Humectants,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+480,C20-40 ALCOHOLS,"[""c20-40 alcohols""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+357,Dimethicone Crosspolymer,"[""dimethicone crosspolymer""]",Film Formers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+358,Dipeptide-2,"[""dipeptide-2""]",Peptides,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+359,Disodium Cocoamphodiacetate,"[""disodium cocoamphodiacetate""]",Surfactants,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+360,Dunaliella Salina Extract,"[""dunaliella salina extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+361,Ethyl Ferulate,"[""ethyl ferulate""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+362,Ethylhexyl Palmitate,"[""ethylhexyl palmitate""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+363,Glucosamine HCL,"[""glucosamine hcl""]",Conditioning Agents,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+364,Glyceryl Glucoside,"[""glyceryl glucoside""]",Humectants,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+365,Glyceryl Stearate SE,"[""glyceryl stearate se""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+366,Helianthus Annuus Extract,"[""helianthus annuus extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+367,Helianthus Annuus Seed Oil,"[""helianthus annuus seed oil""]",Plant Oils,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+368,Helichrysum Stoechas Flower Extract,"[""helichrysum stoechas flower extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+369,Hesperidin Methyl Chalcone,"[""hesperidin methyl chalcone""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+370,Hexylene Glycol,"[""hexylene glycol""]",Solvents,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+371,Humulus Lupulus Extract,"[""humulus lupulus extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+372,Hydroxyacetophenone,"[""hydroxyacetophenone""]",Preservatives,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+373,Hydroxyethyl Acrylate/sodium Acryloyldimethyl Taurate Copolymer,"[""hydroxyethyl acrylate/sodium acryloyldimethyl taurate copolymer""]",Film Formers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+374,Hydroxymethoxyphenyl Propylmethylmethoxybenzofuran,"[""hydroxymethoxyphenyl propylmethylmethoxybenzofuran""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+375,Ionone,"[""ionone""]",Fragrance,caution,caution,Fragrance component; may irritate/sensitize and has limited pregnancy-specific data—use with caution.,False
+376,Iris Florentina Root Extract,"[""iris florentina root extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+377,Isopropyl Isostearate,"[""isopropyl isostearate""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+378,Kigelia Africana Fruit Extract,"[""kigelia africana fruit extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+379,Leuconostoc/radish Root Ferment Filtrate,"[""leuconostoc/radish root ferment filtrate""]",Preservatives,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+380,Lilium Candidum Flower Extract,"[""lilium candidum flower extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+381,Menthoxypropanediol,"[""menthoxypropanediol""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+382,Methyl Gluceth-20,"[""methyl gluceth-20""]",Humectants,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+383,Methylglucoside Phosphate,"[""methylglucoside phosphate""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+384,N-hydroxysuccinimide,"[""n-hydroxysuccinimide""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+385,Omega 3,"[""omega 3""]",Vitamins,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+386,Palmitoyl Hexapeptide-12,"[""palmitoyl hexapeptide-12""]",Peptides,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+387,Palmitoyl Tripeptide-5,"[""palmitoyl tripeptide-5""]",Peptides,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+388,Pantolactone,"[""pantolactone""]",Conditioning Agents,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+389,Parachlorella Beijerinckii Exopolysaccharides,"[""parachlorella beijerinckii exopolysaccharides""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+390,PEG-10 Phytosterol,"[""peg-10 phytosterol""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+391,Pfaffia Paniculata Root Extract,"[""pfaffia paniculata root extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+392,Phenethyl Alcohol,"[""phenethyl alcohol""]",Fragrance,caution,caution,Fragrance component; may irritate/sensitize and has limited pregnancy-specific data—use with caution.,False
+393,Phospholipids,"[""phospholipids""]",Lipids,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+394,Pisum Sativum Extract,"[""pisum sativum extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+395,Plantago Lanceolata Leaf Extract,"[""plantago lanceolata leaf extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+396,Polyacrylate Crosspolymer-6,"[""polyacrylate crosspolymer-6""]",Film Formers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+397,Polyglyceryl-2 Stearate,"[""polyglyceryl-2 stearate""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+398,Polymethylsilsesquioxane,"[""polymethylsilsesquioxane""]",Makeup Fillers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+399,Polysorbate 60,"[""polysorbate 60""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+400,Potassium Cetyl Phosphate,"[""potassium cetyl phosphate""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+401,Propylene Carbonate,"[""propylene carbonate""]",Solvents,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+402,Ptychopetalum Olacoides Bark/stem Extract,"[""ptychopetalum olacoides bark/stem extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+403,Pyrus Malus Fruit Extract,"[""pyrus malus fruit extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+404,Quartz,"[""quartz""]",Makeup Fillers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+405,Rubus Idaeus Leaf Extract,"[""rubus idaeus leaf extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+406,Saccharide Isomerate,"[""saccharide isomerate""]",Humectants,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+407,Silybum Marianum Fruit Extract,"[""silybum marianum fruit extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+408,Sodium Lauroyl Lactylate,"[""sodium lauroyl lactylate""]",Surfactants,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+409,Sodium Phytate,"[""sodium phytate""]",Chelators,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+410,Sodium Stearoyl Glutamate,"[""sodium stearoyl glutamate""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+411,Sorbic Acid,"[""sorbic acid""]",Preservatives,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+412,Sorbitan Isostearate,"[""sorbitan isostearate""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+413,Stearalkonium Bentonite,"[""stearalkonium bentonite""]",Makeup Fillers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+414,Steareth-20,"[""steareth-20""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+415,Stevia Rebaudiana Extract,"[""stevia rebaudiana extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+416,T-butyl Alcohol,"[""t-butyl alcohol""]",Solvents,avoid,caution,Denatured/solvent alcohol; avoid during pregnancy when possible (especially in leave-on products).,False
+417,Tribehenin,"[""tribehenin""]",Emulsifiers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+418,Tridecane,"[""tridecane""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+419,Triethyl Citrate,"[""triethyl citrate""]",Solvents,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+420,Undaria Pinnatifida Extract,"[""undaria pinnatifida extract""]",Botanicals,caution,caution,Botanical/plant-derived ingredient with limited pregnancy-specific data; generally considered low risk but use with caution (especially if irritation occurs).,False
+421,Undecane,"[""undecane""]",Base,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+422,Vanillin,"[""vanillin""]",Fragrance,caution,caution,Fragrance component; may irritate/sensitize and has limited pregnancy-specific data—use with caution.,False
+423,Vinyl Dimethicone/methicone Silsesquioxane Crosspolymer,"[""vinyl dimethicone/methicone silsesquioxane crosspolymer""]",Film Formers,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+22,Rosemary Oil,"[""rosmarinus officinalis"", ""rosemary extract"", ""rosmarinus officinalis extract"", ""rosmarinus officinalis leaf extract""]",Essential Oils,caution,caution,Rosemary oil is a bioactive essential oil; conservative pregnancy guidance recommends caution due to limited topical pregnancy data and uterine-stimulant concerns with higher/medicinal exposures. Avoid ingestion; use only in low diluted topical cosmetic products if used. (Topical cosmetic use only.),False
+24,Glycerin,"[""glycerol"", ""vegetable glycerin"", ""glycerine""]",Humectants,safe,safe,Safe humectant that draws moisture to the skin. No known risks during pregnancy or breastfeeding.,False
+29,Vitamin E,"[""tocopherol"", ""tocopheryl acetate"", ""alpha-tocopherol"", ""tocopheryl actetate""]",Vitamins,safe,safe,Antioxidant vitamin safe for topical use during pregnancy and breastfeeding.,False
+100,Cinnamon Bark Oil,"[""cinnamomum verum bark oil"", ""cinnamomum zeylanicum bark oil""]",Essential Oils,avoid,avoid,"Cinnamon bark oil is a potent essential oil with reproductive-toxicity concerns reported in animal studies at high exposures; conservative guidance recommends avoiding during pregnancy and breastfeeding, especially in leave-on products. (Avoid topical medicinal/aromatherapy use; do not ingest.)",False
+101,Clove Oil,"[""eugenia caryophyllus bud oil""]",Essential Oils,caution,caution,"There are no robust pregnancy safety studies on clove oil; limited reports do not suggest harm, but due to limited data and potency (eugenol), conservative guidance recommends caution and avoiding ingestion. (Topical cosmetic use only.)",False
+157,CI 77891,"[""titanium dioxide"", ""titanium dioxide (ci 77891)"", ""titanium dixoide""]",Makeup Pigments,safe,safe,Titanium dioxide listed as a colorant/pigment; generally safe.,False
+287,Geranium Maculatum Oil,"[""geranium oil""]",Essential Oils,safe,safe,"Geranium essential oil is widely used in cosmetics; no clear evidence of pregnancy or breastfeeding harm at typical low topical concentrations, but avoid ingestion and discontinue if sensitization occurs. (Topical cosmetic use only.)",False
+290,Lavandula Angustifolia Oil,"[""lavender oil""]",Essential Oils,safe,caution,Lavender oil used topically in diluted cosmetic products is generally considered low risk in pregnancy; avoid ingestion and avoid applying directly on/around the nipple while breastfeeding due to hormonal-activity concerns reported with topical exposure in infants/children. (Topical cosmetic use only.),False
+307,Cedarwood Oil,"[""cedrus atlantica bark oil"", ""cedarwood oil""]",Essential Oils,safe,caution,Cedarwood oil has no known reason to be avoided in pregnancy at typical diluted topical use; breastfeeding safety data are limited—use with caution and avoid application near the breast/infant exposure. (Topical cosmetic use only.),False
+308,2-Hexanediol,"[""2-hexanediol"", ""2- hexanediol"", ""1,2-hexanediol"", ""1,2 hexanediol"", ""1,2-hexandiol"", ""1,2 hexandiol""]",Solvents,safe,safe,No known pregnancy or breastfeeding concerns at typical cosmetic concentrations.,False
+424,Avene Thermal Spring Water,"[""avene thermal spring water"", ""avène thermal spring water"", ""avène thermal spring water : avène thermal spring water""]",Water,safe,safe,Thermal spring water; no known pregnancy or breastfeeding concerns at topical use levels.,False
+425,Alcohol,"[""alcohol"", ""ethanol"", ""ethyl alcohol""]",Solvents,caution,caution,"Common cosmetic solvent; no specific pregnancy/breastfeeding risk at topical use, but can be drying/irritating for some.",False
+426,Acacia Senegal Gum,"[""acacia senegal gum""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+427,Acetyl Tetrapeptide-3,"[""acetyl tetrapeptide-3""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+428,Achillea Millefolium Flower/Leaf/Stem Extract,"[""achillea millefolium flower/leaf/stem extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+429,Aesculus Hippocastanum Seed Extract,"[""aesculus hippocastanum seed extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+430,Agar,"[""agar""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+431,Agave Tequilana Leaf Extract,"[""agave tequilana leaf extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+432,Alchemilla Vulgaris Flower/Leaf/Stem Extract,"[""alchemilla vulgaris flower/leaf/stem extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+433,Algin,"[""algin""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+434,Aloe Barbadensis Flower Extract,"[""aloe barbadensis flower extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+435,Aloe Vera Callus Extract,"[""aloe vera callus extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+436,Alpha-Glucan Oligosaccharide,"[""alpha-glucan oligosaccharide""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+437,Aluminum Starch Octenylsuccinate,"[""aluminum starch octenylsuccinate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+438,Aluminum Stearate,"[""aluminum stearate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+439,Aluminum Sucrose Octasulfate,"[""aluminum sucrose octasulfate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+440,Amaranthus Caudatus Seed Extract,"[""amaranthus caudatus seed extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+441,Aminomethyl Propanediol,"[""aminomethyl propanediol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+442,Ananas Sativus Fruit Extract,"[""ananas sativus fruit extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+443,Aquaphilus Dolomiae Extract Filtrate,"[""aquaphilus dolomiae extract filtrate""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+479,C20-22 ALKYL PHOSPHATE,"[""c20-22 alkyl phosphate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+444,Aquaphilus Dolomiae Ferment Filtrate,"[""aquaphilus dolomiae ferment filtrate""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+445,Arachidyl Alcohol,"[""arachidyl alcohol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+446,Arachidyl Glucoside,"[""arachidyl glucoside""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+447,Arginine,"[""arginine""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+448,Ascorbyl Palmitate,"[""ascorbyl palmitate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+449,Asophyllum Nodosum Extract,"[""asophyllum nodosum extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+450,Astrocaryum Murumuru Seed Butter,"[""astrocaryum murumuru seed butter""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+451,Avena Sativa Kernel Oil,"[""avena sativa kernel oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+452,Behenyl Alcohol,"[""behenyl alcohol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+453,Benzoic Acid,"[""benzoic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+454,Benzotriazolyl Dodecyl P-Cresol,"[""benzotriazolyl dodecyl p-cresol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+455,Benzyl Salicylate,"[""benzyl salicylate""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+456,Bidens Pilosa Extract,"[""bidens pilosa extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+457,Biosaccharide Gum-1,"[""biosaccharide gum-1""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+458,Biosaccharide Gum-4,"[""biosaccharide gum-4""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+459,Bis-Butyldimethicone Polyglyceryl-3,"[""bis-butyldimethicone polyglyceryl-3""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+460,Bis-Diglyceryl Polyacyladipate-2,"[""bis-diglyceryl polyacyladipate-2""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+461,Bis-Peg-18 Methyl Ether Dimethyl Silane,"[""bis-peg-18 methyl ether dimethyl silane""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+462,Bismuth Oxychloride,"[""bismuth oxychloride""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+463,Blue 1 Lake,"[""blue 1 lake""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+464,Brassica Oleracea Acephala Leaf Extract,"[""brassica oleracea acephala leaf extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+465,Butane,"[""butane""]",Propellants,safe,safe,Propellant gas used in sprays; minimal dermal exposure from finished products; no known pregnancy/breastfeeding risk at typical cosmetic use.,False
+466,Butylene/Ethylene/Styrene Copolymer,"[""butylene/ethylene/styrene copolymer""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+467,Butyrospermum Parkii Butter Extract,"[""butyrospermum parkii butter extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+468,Butyrospermum Parkii Extract,"[""butyrospermum parkii extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+469,Butyrospermum Parkii Oil,"[""butyrospermum parkii oil""]",Essential Oils,caution,caution,Essential oil/fragrant botanical; limited pregnancy/breastfeeding safety data and can irritate—use with caution.,False
+470,C10-18 TRIGLYCERIDES,"[""c10-18 triglycerides""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+471,C12-20 ALKYL GLUCOSIDE,"[""c12-20 alkyl glucoside""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+472,C13-14 ISOPARAFFIN,"[""c13-14 isoparaffin""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+473,C13-15 ALKANE,"[""c13-15 alkane""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+474,C14-22 ALCOHOLS,"[""c14-22 alcohols""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+475,C15-19 ALKANE,"[""c15-19 alkane""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+476,C18-36 ACID TRIGLYCERIDE,"[""c18-36 acid triglyceride""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+477,C18-38 ALKYL HYDROXYSTEAROYL STEARATE,"[""c18-38 alkyl hydroxystearoyl stearate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+478,C20-22 ALCOHOLS,"[""c20-22 alcohols""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+481,C9-12 ALKANE,"[""c9-12 alkane""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+482,Calcium Carbonate,"[""calcium carbonate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+483,Calcium Chloride,"[""calcium chloride""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+484,Calcium Sodium Borosilicate,"[""calcium sodium borosilicate""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+485,Calcium Stearate,"[""calcium stearate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+486,Capric Acid,"[""capric acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+487,Caprylhydroxamic Acid,"[""caprylhydroxamic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+488,Caprylic/Capric,"[""caprylic/capric""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+489,Caprylic/Capric Glycerides,"[""caprylic/capric glycerides""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+490,Caprylic/Capric/Myristic/Stearic Triglyceride,"[""caprylic/capric/myristic/stearic triglyceride""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+491,Capryloyl Glycerin/Sebacic Acid Copolymer,"[""capryloyl glycerin/sebacic acid copolymer""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+492,Caprylyl Methicone,"[""caprylyl methicone""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+493,Carica Papaya Seed Oil,"[""carica papaya seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+494,Carthamus Tinctorius Seed Oil,"[""carthamus tinctorius seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+495,Carvone,"[""carvone""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+496,Caryodendron Orinocense Seed Oil,"[""caryodendron orinocense seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+497,Cedrus Atlantica Bark Extract,"[""cedrus atlantica bark extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+498,Cellulose,"[""cellulose""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+499,Cellulose Gum,"[""cellulose gum""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+500,Centella Asiatica Leaf Extract,"[""centella asiatica leaf extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+501,Ceteareth-25,"[""ceteareth-25""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+502,Ceteareth-60 Myristyl Glycol,"[""ceteareth-60 myristyl glycol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+503,Cetearyl Glucoside,"[""cetearyl glucoside""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+504,Cetearyl Olivate,"[""cetearyl olivate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+505,Ceteth-10 Phosphate,"[""ceteth-10 phosphate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+506,Cetrimonium Bromide,"[""cetrimonium bromide""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+507,Chamomilla Recutita Flower Extract,"[""chamomilla recutita flower extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+508,Charcoal Powder,"[""charcoal powder""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+509,Chondrus Crispus Powder,"[""chondrus crispus powder""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+510,Chromium Hydroxide Green,"[""chromium hydroxide green""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+511,Chrysanthemum Parthenium Flower/Leaf/Stem Juice,"[""chrysanthemum parthenium flower/leaf/stem juice""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+512,Citronellol,"[""citronellol""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+513,Citrus Aurantium Amara Peel Oil,"[""citrus aurantium amara peel oil""]",Essential Oils,safe,safe,Citrus peel essential oil is generally considered low risk in pregnancy/breastfeeding at typical cosmetic concentrations; may be phototoxic (especially expressed oils) and can be irritating/sensitizing—use low levels and avoid sun exposure after leave-on use. (Topical cosmetic use only.),False
+514,Citrus Limon Peel Oil,"[""citrus limon peel oil""]",Essential Oils,safe,safe,Citrus peel essential oil is generally considered low risk in pregnancy/breastfeeding at typical cosmetic concentrations; may be phototoxic (especially expressed oils) and can be irritating/sensitizing—use low levels and avoid sun exposure after leave-on use. (Topical cosmetic use only.),False
+515,Citrus Aurantium Bergamia Peel Oil,"[""citrus aurantium bergamia peel oil""]",Essential Oils,safe,safe,Citrus peel essential oil is generally considered low risk in pregnancy/breastfeeding at typical cosmetic concentrations; may be phototoxic (especially expressed oils) and can be irritating/sensitizing—use low levels and avoid sun exposure after leave-on use. (Topical cosmetic use only.),False
+516,Coco-Caprylate,"[""coco-caprylate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+517,Coconut Alkanes,"[""coconut alkanes""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+518,Colloidal Silver,"[""colloidal silver""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+519,Copper Sulfate,"[""copper sulfate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+520,Corn Starch Modified,"[""corn starch modified""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+521,Curcuma Longa Root Extract,"[""curcuma longa root extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+522,Cymbopogon Schoenanthus Oil,"[""cymbopogon schoenanthus oil""]",Essential Oils,caution,caution,Essential oil/fragrant botanical; limited pregnancy/breastfeeding safety data and can irritate—use with caution.,False
+523,Dehydroacetic Acid,"[""dehydroacetic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+524,Dextran,"[""dextran""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+525,Dicalcium Phosphate Dihydrate,"[""dicalcium phosphate dihydrate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+526,Dicetyl Phosphate,"[""dicetyl phosphate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+527,Diheptyl Succinate,"[""diheptyl succinate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+528,Diisostearyl Malate,"[""diisostearyl malate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+529,Dimethyl Isosorbide,"[""dimethyl isosorbide""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+530,Dipropylene Glycol,"[""dipropylene glycol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+531,Disteardimonium Hectorite,"[""disteardimonium hectorite""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+532,Eicosadioate,"[""eicosadioate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+533,Ethylcellulose,"[""ethylcellulose""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+534,Ethylene/Propylene Copolymer,"[""ethylene/propylene copolymer""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+535,Ethylhexyl Methoxycrylene,"[""ethylhexyl methoxycrylene""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+536,Euphorbia Cerifera Wax,"[""euphorbia cerifera wax""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+537,Ferric Ammonium Ferrocyanide,"[""ferric ammonium ferrocyanide""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+538,Ferric Ferrocyanide,"[""ferric ferrocyanide""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+539,Flavor,"[""flavor""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+540,Fragrance/Parfum,"[""fragrance/parfum""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+541,Galactoarabinan,"[""galactoarabinan""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+542,Glucomannan,"[""glucomannan""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+543,Glycerine,"[""glycerine""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+544,Glyceryl Acrylate/Acrylic Acid Copolymer,"[""glyceryl acrylate/acrylic acid copolymer""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+545,Glyceryl Behenate,"[""glyceryl behenate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+546,Glyceryl Caprylate,"[""glyceryl caprylate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+547,Glyceryl Dibehenate,"[""glyceryl dibehenate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+548,Glyceryl Linoleate,"[""glyceryl linoleate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+549,Glyceryl Linolenate,"[""glyceryl linolenate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+550,Glyceryl Oleate,"[""glyceryl oleate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+551,Glyceryl Palmitate,"[""glyceryl palmitate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+552,Glyceryl Polyacrylate,"[""glyceryl polyacrylate""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+553,Glyceryl Undecylenate,"[""glyceryl undecylenate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+554,Glycine Soja Oil,"[""glycine soja oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+555,Glycyrrhetinic Acid,"[""glycyrrhetinic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+556,Gossypium Herbaceum Seed Oil,"[""gossypium herbaceum seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+557,Green 5,"[""green 5""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+558,Hamamelis Virginiana Extract,"[""hamamelis virginiana extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+559,Helianthus Annuus Seed Wax,"[""helianthus annuus seed wax""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+560,Heptyl Undecylenate,"[""heptyl undecylenate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+561,Homosalate 9%,"[""homosalate 9%""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+562,Hydrated Silica,"[""hydrated silica""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+563,Hydrofluorocarbon 152A,"[""hydrofluorocarbon 152a""]",Propellants,safe,safe,Propellant gas used in sprays; minimal dermal exposure from finished products; no known pregnancy/breastfeeding risk at typical cosmetic use.,False
+564,Hydrogen Dimethicone,"[""hydrogen dimethicone""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+565,Hydrogenated Castor Oil,"[""hydrogenated castor oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+566,Hydrogenated Lecithin,"[""hydrogenated lecithin""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+567,Hydrogenated Starch Hydrolysate,"[""hydrogenated starch hydrolysate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+568,Hydrolyzed Hyaluronic Acid,"[""hydrolyzed hyaluronic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+569,Hydrolyzed Sodium Hyaluronate,"[""hydrolyzed sodium hyaluronate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+570,Hydroxyapatite,"[""hydroxyapatite""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+571,Hydroxycapric Acid,"[""hydroxycapric acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+572,Inulin,"[""inulin""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+573,Iron Oxide,"[""iron oxide""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+574,Isoamyl Laurate,"[""isoamyl laurate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+575,Isobutane,"[""isobutane""]",Propellants,safe,safe,Propellant gas used in sprays; minimal dermal exposure from finished products; no known pregnancy/breastfeeding risk at typical cosmetic use.,False
+576,Isoceteth-10,"[""isoceteth-10""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+577,Isoceteth-25,"[""isoceteth-25""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+578,Isocetyl Stearoyl Stearate,"[""isocetyl stearoyl stearate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+579,Isodecyl Neopentanoate,"[""isodecyl neopentanoate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+580,Isohexadecane,"[""isohexadecane""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+581,Isopropyl Myristate,"[""isopropyl myristate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+582,Isostearic Acid,"[""isostearic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+583,Jojoba Esters,"[""jojoba esters""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+584,Kappaphycus Alvarezii Extract,"[""kappaphycus alvarezii extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+585,Laminaria Saccharina Extract,"[""laminaria saccharina extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+586,Laureth-7,"[""laureth-7""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+587,Lauroyl Lysine,"[""lauroyl lysine""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+588,Linalyl Acetate,"[""linalyl acetate""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+589,Linoleic Acid,"[""linoleic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+590,Linolenic Acid,"[""linolenic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+591,Linum Usitatissimum Seed Oil,"[""linum usitatissimum seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+592,Magnesium Aluminum Silicate,"[""magnesium aluminum silicate""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+593,Magnesium Carbonate,"[""magnesium carbonate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+594,Magnesium Chloride,"[""magnesium chloride""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+595,Magnesium Myristate,"[""magnesium myristate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+596,Magnesium Oxide,"[""magnesium oxide""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+597,Magnesium Sulfate,"[""magnesium sulfate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+598,Maltodextrin,"[""maltodextrin""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+599,Malva Sylvestris Flower/Leaf/Stem Extract,"[""malva sylvestris flower/leaf/stem extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+600,Manganese Violet,"[""manganese violet""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+601,Mannitol,"[""mannitol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+602,Maranta Arundinacea Root Extract,"[""maranta arundinacea root extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+603,Melissa Officinalis Leaf Extract,"[""melissa officinalis leaf extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+604,Mentha Piperita Leaf Extract,"[""mentha piperita leaf extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+605,Mentha Viridis Extract,"[""mentha viridis extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+606,Methicone,"[""methicone""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+607,Methyl Methacrylate Crosspolymer,"[""methyl methacrylate crosspolymer""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+608,Methyl Nicotinate,"[""methyl nicotinate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+609,Microcrystalline Cellulose,"[""microcrystalline cellulose""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+610,Microcrystalline Wax / Cire Microcristalline,"[""microcrystalline wax / cire microcristalline""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+611,Mineral Oil / Huile Minerale,"[""mineral oil / huile minerale""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+612,Morinda Citrifolia Extract,"[""morinda citrifolia extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+613,Morus Alba Root Extract,"[""morus alba root extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+614,Myristic Acid,"[""myristic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+615,Nannochloropsis Gaditana Extract,"[""nannochloropsis gaditana extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+616,Nitrogen,"[""nitrogen""]",Propellants,safe,safe,Propellant gas used in sprays; minimal dermal exposure from finished products; no known pregnancy/breastfeeding risk at typical cosmetic use.,False
+617,Nymphaea Alba Flower Extract,"[""nymphaea alba flower extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+618,Ocimum Sanctum Leaf Extract,"[""ocimum sanctum leaf extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
+619,Octisalate 4.5%,"[""octisalate 4.5%""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+620,Octyldodecanol,"[""octyldodecanol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+621,Octyldodecyl Neopentanoate,"[""octyldodecyl neopentanoate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+622,Oenothera Biennis Oil,"[""oenothera biennis oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+623,Olea Europaea Fruit Oil,"[""olea europaea fruit oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+624,Oleic Acid,"[""oleic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+625,Oleyl Erucate,"[""oleyl erucate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+626,Oligopeptide-1,"[""oligopeptide-1""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+627,P-Anisic Acid,"[""p-anisic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+628,PEG-40 HYDROGENATED CASTOR OIL,"[""peg-40 hydrogenated castor oil""]",Essential Oils,caution,caution,Essential oil/fragrant botanical; limited pregnancy/breastfeeding safety data and can irritate—use with caution.,False
+629,Pelargonium Graveolens Flower Oil,"[""pelargonium graveolens flower oil""]",Essential Oils,safe,safe,"Geranium (Pelargonium graveolens) essential oil is commonly used in cosmetics; no clear evidence of pregnancy or breastfeeding harm at typical low topical concentrations, but avoid ingestion and discontinue if sensitization occurs. (Topical cosmetic use only.)",False
+630,Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate,"[""pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+631,Phenylpropanal,"[""phenylpropanal""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+632,Phenylpropanol,"[""phenylpropanol""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+633,Phosphatidylcholine,"[""phosphatidylcholine""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+634,Pinene,"[""pinene""]",Fragrance,caution,caution,Fragrance component/allergen; limited safety data and can irritate/sensitize—use with caution in pregnancy/breastfeeding if sensitive.,False
+635,Poloxamer 188,"[""poloxamer 188""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+636,Polyacrylate-13,"[""polyacrylate-13""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+637,Polybutene,"[""polybutene""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+638,Polyethylene,"[""polyethylene""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+639,Polyglutamic Acid,"[""polyglutamic acid""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+640,Polysilicone-11,"[""polysilicone-11""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+641,Polysorbate 80,"[""polysorbate 80""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+642,Polyvinyl Alcohol,"[""polyvinyl alcohol""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+643,Potassium Azeloyl Diglycinate,"[""potassium azeloyl diglycinate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+644,PPG-26-BUTETH-26,"[""ppg-26-buteth-26""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+645,Propane,"[""propane""]",Propellants,safe,safe,Propellant gas used in sprays; minimal dermal exposure from finished products; no known pregnancy/breastfeeding risk at typical cosmetic use.,False
+646,Prunus Domestica Seed Oil,"[""prunus domestica seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+647,Quercetin,"[""quercetin""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+648,Red 28 Lake,"[""red 28 lake""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+649,Red 30 Lake,"[""red 30 lake""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+650,Red 33,"[""red 33""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+651,Red 6,"[""red 6""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+652,Red 6 Lake,"[""red 6 lake""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+653,Red 7 Lake,"[""red 7 lake""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+654,Ribes Nigrum Seed Oil,"[""ribes nigrum seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+655,Ricinus Communis Seed Oil,"[""ricinus communis seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+656,Rosa Canina Fruit Oil,"[""rosa canina fruit oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+657,Rosa Moschata Seed Oil,"[""rosa moschata seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+658,Salicyloyl Phytosphingosine,"[""salicyloyl phytosphingosine""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+659,Sclerotium Gum,"[""sclerotium gum""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+660,Sea Water,"[""sea water""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+661,Silica Dimethyl Silylate,"[""silica dimethyl silylate""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+662,Silica Silylate,"[""silica silylate""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+663,Sodium Acetylated Hyaluronate,"[""sodium acetylated hyaluronate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+664,Sodium Benzotriazolyl Butylphenol Sulfonate,"[""sodium benzotriazolyl butylphenol sulfonate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+665,Sodium Bicarbonate,"[""sodium bicarbonate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+666,Sodium Cetearyl Sulfate,"[""sodium cetearyl sulfate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+667,Sodium Cocoyl Glutamate,"[""sodium cocoyl glutamate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+668,Sodium Dextran Sulfate,"[""sodium dextran sulfate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+669,Sodium Gluceptate,"[""sodium gluceptate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+670,Sodium Hydrozxide,"[""sodium hydrozxide""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+671,Sodium Lauroamphoacetate,"[""sodium lauroamphoacetate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+672,Sodium Methyl Cocoyl Taurate,"[""sodium methyl cocoyl taurate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+673,Soluble Collagen,"[""soluble collagen""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+674,Sorbitan Oleate,"[""sorbitan oleate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+675,Sorbitan Olivate,"[""sorbitan olivate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+676,Sorbitan Palmitate,"[""sorbitan palmitate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+677,Sorbitan Sesquiisostearate,"[""sorbitan sesquiisostearate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+678,Stearalkonium Hectorite,"[""stearalkonium hectorite""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+679,Steareth-10,"[""steareth-10""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+680,Steareth-21,"[""steareth-21""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+681,Styrene/Acrylates Copolymer,"[""styrene/acrylates copolymer""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+682,Succinoglycan,"[""succinoglycan""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+683,Sucralose,"[""sucralose""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+684,Sucrose Cocoate,"[""sucrose cocoate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+685,Synthetic Beeswax,"[""synthetic beeswax""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+686,Synthetic Wax,"[""synthetic wax""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+687,Tapioca Starch,"[""tapioca starch""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+688,Tetradecane,"[""tetradecane""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+689,Tetrasodium Glutamate Diacetate,"[""tetrasodium glutamate diacetate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+690,Tin Oxide,"[""tin oxide""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+691,Triacontanyl Pvp,"[""triacontanyl pvp""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+692,Tridecyl Salicylate,"[""tridecyl salicylate""]",Salicylates,caution,caution,Salicylate derivative; systemic absorption from cosmetics is usually low but conservative pregnancy guidance often recommends caution.,False
+693,Tridecyl Trimellitate,"[""tridecyl trimellitate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+694,Triethoxycaprylylsilane,"[""triethoxycaprylylsilane""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+695,Triethylhexanoin,"[""triethylhexanoin""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+696,Trisiloxane,"[""trisiloxane""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+697,Trisodium Ethylenediamine Disuccinate,"[""trisodium ethylenediamine disuccinate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+698,Tropolone,"[""tropolone""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+699,Vinegar,"[""vinegar""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+700,Vitis Vinifera Seed Oil,"[""vitis vinifera seed oil""]",Emollients,safe,safe,Plant-derived carrier oil/emollient; no known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+701,Vp/Hexadecene Copolymer,"[""vp/hexadecene copolymer""]",Polymers/Silicones,safe,safe,Large polymer/silicone ingredient with minimal skin penetration; no known pregnancy or breastfeeding concerns at topical use levels.,False
+702,Water / Eau,"[""water / eau""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+703,Yellow 5,"[""yellow 5""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+704,Yellow 5 Lake,"[""yellow 5 lake""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+705,Yellow 6 Lake,"[""yellow 6 lake""]",Colorants/Minerals,safe,safe,Cosmetic colorant/mineral; generally considered low risk in pregnancy and breastfeeding at topical use levels.,False
+706,Zinc Coceth Sulphate,"[""zinc coceth sulphate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+707,Zinc Ricinoleate,"[""zinc ricinoleate""]",Emollients,safe,safe,Emollient/lipid ingredient; no known pregnancy or breastfeeding concerns at topical use levels.,False
+708,Zinc Sulfate,"[""zinc sulfate""]",Other,safe,safe,No known pregnancy or breastfeeding concerns at typical topical cosmetic use levels.,False
+709,Zingiber Officinale Root Extract,"[""zingiber officinale root extract""]",Botanicals,caution,caution,Botanical/ferment ingredient; limited pregnancy/breastfeeding-specific data—generally low risk topically but use with caution.,False
