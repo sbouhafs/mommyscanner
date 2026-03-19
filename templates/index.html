@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %}Home – MommyScanner{% endblock %}
+{% block content %}
+<div class="card">
+  <h2>Scan a barcode</h2>
+  <p>Enter a product barcode to look it up:</p>
+  <input type="text" id="barcode" placeholder="e.g. 3017620422003" />
+  <button onclick="doScan()">Scan</button>
+  <div id="result" style="margin-top:1rem;"></div>
+</div>
+
+{% if recent_scans %}
+<div class="card">
+  <h2>Recent scans</h2>
+  <table>
+    <tr><th>Barcode</th><th>Product</th><th>Time</th></tr>
+    {% for s in recent_scans %}
+    <tr>
+      <td>{{ s.barcode }}</td>
+      <td>{{ s.product.name if s.product else '—' }}</td>
+      <td>{{ s.scanned_at.strftime('%Y-%m-%d %H:%M') }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endif %}
+
+<script>
+async function doScan() {
+  const barcode = document.getElementById('barcode').value.trim();
+  const resultDiv = document.getElementById('result');
+  if (!barcode) { resultDiv.innerHTML = '<p style="color:red">Please enter a barcode.</p>'; return; }
+  resultDiv.innerHTML = '<p>Looking up…</p>';
+  try {
+    const resp = await fetch('/scan', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({barcode})
+    });
+    const data = await resp.json();
+    if (resp.ok) {
+      resultDiv.innerHTML = `
+        <div class="card">
+          <strong>${data.name}</strong>${data.brand ? ' – <em>' + data.brand + '</em>' : ''}<br/>
+          ${data.image_url ? '<img src="' + data.image_url + '" style="max-height:120px;margin:0.5rem 0"/><br/>' : ''}
+          ${data.ingredients ? '<small>' + data.ingredients.substring(0, 300) + (data.ingredients.length > 300 ? '…' : '') + '</small>' : ''}
+        </div>`;
+    } else {
+      resultDiv.innerHTML = `<p style="color:red">Not found: ${data.name || data.error}</p>`;
+    }
+  } catch (e) {
+    resultDiv.innerHTML = '<p style="color:red">Error contacting server.</p>';
+  }
+}
+document.getElementById('barcode').addEventListener('keydown', e => { if (e.key === 'Enter') doScan(); });
+</script>
+{% endblock %}

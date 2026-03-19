@@ -1,0 +1,17 @@
+run = "python main.py"
+modules = ["python-3.11"]
+hidden = [".pythonlibs", "__pycache__", "*.pyc", ".upm"]
+
+[nix]
+channel = "stable-23_11"
+
+[unitTest]
+language = "python3"
+
+[deployment]
+run = ["sh", "-c", "gunicorn main:app --bind 0.0.0.0:$PORT"]
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 5000
+externalPort = 80

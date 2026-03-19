@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Products – MommyScanner{% endblock %}
+{% block content %}
+<div class="card">
+  <h2>Product Database</h2>
+  {% if products %}
+  <table>
+    <tr><th>Barcode</th><th>Name</th><th>Brand</th><th>Added</th></tr>
+    {% for p in products %}
+    <tr>
+      <td><span class="tag">{{ p.barcode }}</span></td>
+      <td>{{ p.name }}</td>
+      <td>{{ p.brand or '' }}</td>
+      <td>{{ p.created_at.strftime('%Y-%m-%d') }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% else %}
+  <p>No products cached yet. <a href="/">Scan a barcode</a> to add one.</p>
+  {% endif %}
+</div>
+{% endblock %}
